@@ -23,7 +23,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](hhttps://fcc-penguin.netlify.app/)
 
 ### Development (Running locally)
 
