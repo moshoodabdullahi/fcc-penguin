@@ -1,16 +1,25 @@
-# Project Name
+# FCC-PENGUIN
 
-> One paragraph statement about the project.
+> A basic HTML and CSS element to illustrate styling.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./_C__projects_fcc_fcc-penguin_index.html.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+  - `div`.
+- CSS properties
+  - CSS Variables for reusable CSS values,
+  - CSS Media Query for page responsiveness using `@keyframes` rule,
+  - CSS Positioning `rotate`,
+  - CSS Background for page aesthetic using `background-color`, `background`.
+  - `body`.
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
@@ -71,6 +80,7 @@ yarn hint
 
 - Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
 - Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
+- FreeCodeCamp: [@moshoodabdullahi](https://www.freecodecamp.org/moshoodabdullahi)
 
 ## 🤝 Contributing
 
@@ -84,9 +94,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## 📝 License
 
