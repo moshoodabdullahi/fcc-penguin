@@ -4,8 +4,6 @@
 
 ![screenshot](./_C__projects_fcc_fcc-penguin_index.html.png)
 
-# This PR adds penguin webpage using animation, transform to rotate elements and scale them.
-
 ## Built With
 
 - HTML5 elements
