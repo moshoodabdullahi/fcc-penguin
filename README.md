@@ -1,21 +1,24 @@
-# FCC-PENGUIN
+# FCC PENGUIN
 
-> A basic HTML and CSS element to illustrate styling.
+> A penguin project built using animation, transform to rotate elements and scale them.
 
 ![screenshot](./_C__projects_fcc_fcc-penguin_index.html.png)
 
-Additional description about the project and its features.
+# This PR adds penguin webpage using animation, transform to rotate elements and scale them.
 
 ## Built With
 
 - HTML5 elements
   - `div`.
 - CSS properties
+  - CSS transform such as `rotate`,
+  - CSS transition such as `ease-in-out`,
   - CSS Variables for reusable CSS values,
-  - CSS Media Query for page responsiveness using `@keyframes` rule,
-  - CSS Positioning `rotate`,
+  - CSS pseudo class selector such as `:root`,
+  - CSS animation such as `infinite wave` and so on,
+  - Typography such as `font-size`, `font-family`, and so on,
+  - CSS Keyframe for page responsiveness using `@keyframes` rule
   - CSS Background for page aesthetic using `background-color`, `background`.
-  - `body`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
@@ -30,7 +33,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/moshoodabdullahi/fcc-penguin.git
 ```
 
 - Install Dependencies
@@ -73,7 +76,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
